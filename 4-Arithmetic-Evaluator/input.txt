@@ -1,0 +1,20 @@
+// defining variables
+int i = 1;
+float j = 2.2;
+int k = 1;
+float m = 3.256;
+float n = .1;
+
+// printing arithmetic expressions
+print(i+k);
+print(1+2-(2*5)*7);
+print(1+i);
+print(i*j*k-2);
+print(n);
+print(.568);
+
+// redefining variables --> error
+/* int i = 100; */
+
+// undefined variables --> error
+print(l);
